@@ -1,0 +1,17 @@
+# 설치된 라이브러리 (절대 업로드 X)
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+
+# 내 컴퓨터 설정 및 보안 키 (해킹 방지)
+.DS_Store
+.env
+.env.local
+.env.*
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
